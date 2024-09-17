@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu me chamo Alessandra Morisson! 
 
-<!--
-**ale3700/ale3700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Computação** com uma paixão por **Tecnologia e Inovação**. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou focado em desenvolver projetos usando **Python**, explorar o campo de **Inteligência Artificial** e aprofundar meus conhecimentos em **Redes de Computadores**.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**: Experiência em desenvolvimento de scripts, automação e projetos de ciência de dados.
+- **Inteligência Artificial**: Conhecimento em aprendizado de máquina, redes neurais e processamento de linguagem natural.
+- **Redes de Computadores**: Compreensão de conceitos fundamentais, configuração e manutenção de redes, e segurança de redes.
+
+## 📈 Projetos Recentes
+
+- **[Nome do Projeto 1]**: Breve descrição do projeto e tecnologias utilizadas.
+- **[Nome do Projeto 2]**: Breve descrição do projeto e tecnologias utilizadas.
+
+## 📫 Contato
+
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/alessandra-morisson/)
+- **Email**: [seuemail@example.com](ledru01@gmail.com)
+
+Sinta-se à vontade para explorar meus repositórios e me contatar se tiver alguma dúvida ou quiser colaborar em projetos interessantes. 
