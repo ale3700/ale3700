@@ -15,7 +15,7 @@ Sou estudante de **Computação** com uma paixão por **Tecnologia e Inovação*
 
 ## 📫 Contato
 
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/alessandra-morisson/)
-- **Email**: [seuemail@example.com](ledru01@gmail.com)
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/alessandra-morisson/)
+- **Email**: [Meu e-mail](ledru01@gmail.com)
 
 Sinta-se à vontade para explorar meus repositórios e me contatar se tiver alguma dúvida ou quiser colaborar em projetos interessantes. 
