@@ -1,15 +1,8 @@
-# Olá! Eu me chamo Alessandra Morisson! 
+# Welcome to my Github! I'm Alessandra Morisson!
 
-Sou estudante de Ciência da Computação e me interesso pelas áreas de Redes de Computadores, Inteligência Artificial e Ciência de dados.
-
-## 🛠️ Tecnologias e Ferramentas
- 
+I'm a Computer Science student and i have interesting in Python, Artificial Intelligence and Computer Networks.
 
 
-          
-- **Inteligência Artificial**
-- **Redes de Computadores**
-## Estatísticas do meu Github
 <div>
 <a href="https://github.com/ale3700">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale3700&layout=compact&langs_count=7&theme=dracula"/>
@@ -17,7 +10,7 @@ Sou estudante de Ciência da Computação e me interesso pelas áreas de Redes d
 </div>
 
 
-## 📫 Contato
+## 📫 Contact me on my social medias.
 
 - [Linkedln](https://www.linkedin.com/in/alessandra-morisson/)
 - [E-mail](ledru01@gmail.com)
