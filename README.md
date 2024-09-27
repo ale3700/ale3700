@@ -15,4 +15,6 @@ I'm a Computer Science student and i have interesting in Python, Artificial Inte
 - [Linkedln](https://www.linkedin.com/in/alessandra-morisson/)
 - [E-mail](ledru01@gmail.com)
 
+![Snake animation](https://github.com/ale3700/ale3700/blob/output/github-contribution-grid-snake.svg)
+
 
