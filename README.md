@@ -1,6 +1,6 @@
 # Welcome to my Github! I'm Alessandra Morisson!
 
-I'm a Computer Science student with a interest in Python development, Artificial Intelligence, and Computer Networks. Experienced in building automation scripts, working with machine learning models, and understanding network protocols.
+I'm a Computer Scientist with a interest in Python development, Artificial Intelligence, and Computer Networks. Experienced in building automation scripts, working with machine learning models, and understanding network protocols.
 My technical skills include proficiency in Python, Java, C, C++, HTML, CSS, and JavaScript. I have experience with automation tools like Playwright, Selenium, and PyAutoGUI, as well as machine learning using Scikit-learn and computer vision applications. I'm familiar with network concepts including TCP/IP, sockets, and REST APIs, and I work with databases such as MySQL, SQL Server, SQLite, and Redis. I also use development tools like Git, GitHub, and Docker in my projects.
 
 
