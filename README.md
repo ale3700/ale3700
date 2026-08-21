@@ -28,8 +28,8 @@ My technical skills include proficiency in Python, Java, C, C++, HTML, CSS, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" height="40"/>
-<img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=power-automate&logoColor=white" alt="Power Automate" height="40"/>
+  <img src="https://img.shields.io/badge/UIPATH-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" height="40"/>
+  <img src="https://img.shields.io/badge/POWER%20AUTOMATE-0078D4?style=for-the-badge&logo=power-automate&logoColor=white" alt="Power Automate" height="40"/>
 
 
 </p>
